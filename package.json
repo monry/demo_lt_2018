@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@umm/active_timeline": "umm/active_timeline#^1.0.0"
+  }
+}
